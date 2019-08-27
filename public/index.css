@@ -1,0 +1,26 @@
+body{
+    font-family:courier;
+}
+
+h2{
+    text-align: center;
+    font-size: 18px;
+    padding: 10px 20px;
+
+}
+
+
+#content{
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button{
+    background: #85929E;
+    color: #fff;
+    border: 0;
+
+
+}
