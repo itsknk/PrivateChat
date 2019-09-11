@@ -10,4 +10,4 @@ Required Node Modules - express, socket.io and nodemon(extra).
 3. Now open preferred browser and type localhost:4000 to start the chat client.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/itsknk/PrivateChat/blob/master/LICENSE)
